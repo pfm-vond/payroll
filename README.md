@@ -1,8 +1,3 @@
-## The Payroll System 
-
-This is an attempt to apply Clean Architecture / DDD to the The Payroll System
-case study from the *Agile Software Development* book while using typescript.
-
 ## Rudimentary Specification of the Payroll System *[From the book]*
 
 The following are some of the notes we took while conversing with our customer.
